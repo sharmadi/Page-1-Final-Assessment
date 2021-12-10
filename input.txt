@@ -1,0 +1,36 @@
+class house{
+	public:
+		int houseNumber; 
+		string houseowner; 
+	
+	*house -> myHome
+		
+	#include <iostream>
+	using namespace std; 
+	
+	
+	void house(){
+		cout << "I like my house"; 
+	}
+	int main(){
+		int i = 0;
+		int number = 3; 
+		double number2 = 3.1;
+		
+		if(number2 > number)
+			cout << "Number 2 is greater than number"
+		
+		int answer = number + number2; 
+	
+		while(i < 10){
+			i += 1; 
+			cout << i; 
+		}
+		bool isTrue = true;
+		bool isFalse = false; 
+		cout << isTrue;
+		cout << isFalse; 
+	
+		return 0; 		
+	}
+} 

@@ -1,0 +1,216 @@
+This is Keyword:class
+ This is Identifier: house
+
+This is Delimiter: {
+
+This is Identifier: public
+
+:This is Keyword: int
+
+ This is Identifier: houseNumber
+
+This is Delimiter: ;
+
+ This is Identifier: string
+
+ This is Identifier: houseowner
+
+This is Delimiter: ;
+
+ This is Arithmatic Operator: *
+
+This is Identifier: house
+
+ This is Arithmatic Operator: -
+
+This is Relational Operator: >
+
+ This is Identifier: myHome
+
+This is Pre-processor directive: #include <iostream>
+
+This is Identifier: using
+
+ This is Identifier: namespace
+
+ This is Identifier: std
+
+This is Delimiter: ;
+
+ This is Datatype:void
+ This is Function: house(
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Identifier: cout
+
+ This is Relational Operator: <
+
+This is Relational Operator: <
+
+ this is String:"I like my house"
+
+This is Delimiter: ;
+
+ This is Delimiter: }
+
+This is Keyword: int
+
+ This is Function: main(
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Keyword: int
+
+ This is Identifier: i
+
+ This is Assignment Operator: =
+
+ This is Integer: 0
+
+This is Delimiter: ;
+
+This is Keyword: int
+
+ This is Identifier: number
+
+ This is Assignment Operator: =
+
+ This is Integer: 3
+
+This is Delimiter: ;
+
+ This is Keyword: double
+
+ This is Identifier: number2
+
+ This is Assignment Operator: =
+
+ This is Fraction : 3.1
+
+This is Delimiter: ;
+
+This is Function: if(
+
+This is Identifier: number2
+
+ This is Relational Operator: >
+
+ This is Identifier: number
+
+This is Delimiter: )
+
+This is Identifier: cout
+
+ This is Relational Operator: <
+
+This is Relational Operator: <
+
+ this is String:"Number 2 is greater than number"
+
+This is Keyword: int
+
+ This is Identifier: answer
+
+ This is Assignment Operator: =
+
+ This is Identifier: number
+
+ This is Arithmatic Operator: +
+
+ This is Identifier: number2
+
+This is Delimiter: ;
+
+ This is Function: while(
+
+This is Identifier: i
+
+ This is Relational Operator: <
+
+ This is Integer: 10
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Identifier: i
+
+ This is Arithmatic Operator: +
+
+This is Assignment Operator: =
+
+ This is Integer: 1
+
+This is Delimiter: ;
+
+ This is Identifier: cout
+
+ This is Relational Operator: <
+
+This is Relational Operator: <
+
+ This is Identifier: i
+
+This is Delimiter: ;
+
+ This is Delimiter: }
+
+This is Datatype:bool
+ This is Identifier: isTrue
+
+ This is Assignment Operator: =
+
+ This is Identifier: true
+
+This is Delimiter: ;
+
+This is Datatype:bool
+ This is Identifier: isFalse
+
+ This is Assignment Operator: =
+
+ This is Identifier: false
+
+This is Delimiter: ;
+
+ This is Identifier: cout
+
+ This is Relational Operator: <
+
+This is Relational Operator: <
+
+ This is Identifier: isTrue
+
+This is Delimiter: ;
+
+This is Identifier: cout
+
+ This is Relational Operator: <
+
+This is Relational Operator: <
+
+ This is Identifier: isFalse
+
+This is Delimiter: ;
+
+ This is Keyword: return
+
+ This is Integer: 0
+
+This is Delimiter: ;
+
+ This is Delimiter: }
+
+This is Delimiter: }
+
+ 
+
+
+
+
+ Total Tokens = 107
